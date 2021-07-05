@@ -1,10 +1,14 @@
+
+
 # Title 
 /Regex?/
 
 What is Regex? Is a sequence of chracters that search for specific pattern in a text. It looks for a combination of strings in a search bar. In JavaScript, regular expressions are also objects. 
 ## Summary
 
-The Regex I'm going to be decribing is Quantifiers which indicates numbers and characters or expressions to match. 
+The Regex I'm going to be describing is an Anchor which is using the caret symbol followed by a meta char single character lowercase "/d" which is any number from 0-9 and lowercase "/w" which is any letter from A-Z or a-z. The caret Anchor does not match any character, instead they match a position before a characters. There are different anchor that can be used such as, the dollar symbol. The dollar symbol will match characters before the final line break or at the very end of the string. 
+
+To learn more about regular expression. Visit https://www.regular-expressions.info/refanchors.html
 
 ## Table of Contents
 
@@ -37,4 +41,6 @@ The Regex I'm going to be decribing is Quantifiers which indicates numbers and c
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Hi my name is Mayra Orlando. Here is my github link https://github.com/mayraorlando/regex
+
+
